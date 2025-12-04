@@ -1,11 +1,9 @@
 Template-Type: ReDIF-Series 1.0
-Handle: RePEc:ida:wpaper
 Name: IDEAGOV Working Papers
 Provider-Name: IDEAGOV - International Center for Decentralization and Governance
 Provider-Homepage: https://www.ideagov.eu/
-Provider-Institution: RePEc:edi:geviges
+Provider-Institution: RePEc:edi:idusces
 Maintainer-Name: IDEAGOV - International Center for Decentralization and Governance
 Maintainer-Email: ideagov@ideagov.eu
-Description: IDEAGOV Working Papers
-URL: https://repec.ideagov.eu/RePEc/ida/wpaper/
 Type: ReDIF-Paper
+Handle: RePEc:ida:wpaper
